@@ -1,6 +1,6 @@
-/*
- * This Python script removes the max height of ITILCategories dropdown in all css styles
-*/
+#
+# This Python script removes the max height of ITILCategories dropdown in all css styles
+#
 from os import listdir
 directory = '/glpi/path/go/here/glpi/css_compiled/'
 word = '.select2-container--default .select2-results > .select2-results__options {'
